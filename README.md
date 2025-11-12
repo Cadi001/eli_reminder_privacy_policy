@@ -133,8 +133,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
 - **Through the App**: Use the in-app settings or support channels
-- **Email**: [Your support email address]
-- **Address**: [Your business address]
+- **Email**: sayangapp20@gmail.com
+- **Address**: Philippines
 
 We will respond to your inquiries within a reasonable timeframe in accordance with applicable law.
 
